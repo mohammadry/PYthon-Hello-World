@@ -1,2 +1,3 @@
 print("Hello World")
-print()
+print("*" * 40)
+print("This is a test")
